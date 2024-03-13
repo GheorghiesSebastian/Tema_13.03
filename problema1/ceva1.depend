@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709932433 source:c:\alpha\ceva1\main.cpp
+	<iostream>
+	<cmath>
+

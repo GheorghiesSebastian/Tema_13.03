@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709936193 source:c:\alpha\problema6\main.cpp
+	<iostream>
+	<cmath>
+
